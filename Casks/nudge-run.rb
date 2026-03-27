@@ -4,8 +4,8 @@ cask "nudge-run" do
 
   url "https://github.com/mikusnuz/nudge/releases/download/v#{version}/Nudge.dmg"
   name "Nudge"
-  desc "Lightweight macOS window manager with keyboard shortcuts and drag-to-edge snapping"
-  homepage "https://github.com/mikusnuz/nudge"
+  desc "Free, open-source macOS window manager with keyboard shortcuts and drag-to-edge snapping"
+  homepage "https://nudge.run"
 
   depends_on macos: ">= :big_sur"
 
